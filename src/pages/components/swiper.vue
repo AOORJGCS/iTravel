@@ -51,9 +51,7 @@
 
 <style lang="stylus" scoped>
  
-   .wrapper >>> .swiper-pagination-bullet-active{
-         background-color #fff 
-  }
+ 
 
     .wrapper{
        width 100%
